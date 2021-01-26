@@ -19,7 +19,7 @@ Required libraries and packages can be find in the [requirement file]('requireme
 ## File Descriptions <a name="files"></a>
 
 ### Folders: 
-**Data:** contains the original data file: [Seinfeld_Scripts.txt]('Data/Seinfeld_Scripts.txt')
+**Data:** contains the original data file: [Seinfeld_Scripts.txt]("/Data/Seinfeld_Scripts.txt")
 
 ### Files:
 **dlnd_tv_script_generation.ipynb:** the main notebook for the TV script generation
