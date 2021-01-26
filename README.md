@@ -14,13 +14,12 @@ In this project, I generated Seinfeld TV scripts using RNNs based on part of the
 
 ## Installation <a name="installation"></a>
 
-Required libraries and packages can be find in the [requirement file]('requirement.txt') 
+Required libraries and packages can be find in <a href="/requirement.txt">requirement</a>.
 
 ## File Descriptions <a name="files"></a>
 
 ### Folders: 
-**Data:** contains the original data file: [Seinfeld_Scripts.txt]('/data/Seinfeld_Scripts.txt')
-<a href="/data/Seinfeld_Scripts.txt">Seinfeld_Scripts.txt</a>
+**Data:** contains the original data file: <a href="/data/Seinfeld_Scripts.txt">Seinfeld_Scripts</a>
 
 ### Files:
 **dlnd_tv_script_generation.ipynb:** the main notebook for the TV script generation
@@ -41,7 +40,7 @@ Required libraries and packages can be find in the [requirement file]('requireme
 
 ## Results<a name="results"></a>
 
-Using the LSTM RNN model with 2 hidden layer, 300 embeddings and 0.001 learning rate, the final training loss is 3.35 after traing 10 epochs. Two of the sample scripts generated using the model can be found [sample #1](generated_script_1.txt) and [sample #2](generated_script_2.txt)
+Using the LSTM RNN model with 2 hidden layer, 300 embeddings and 0.001 learning rate, the final training loss is 3.35 after traing 10 epochs. Two of the sample scripts generated using the model can be found <a href="/generated_script_1.txt">sample #1</a> and <a href="/generated_script_2.txt">sample #2</a>. 
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
