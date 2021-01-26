@@ -14,7 +14,8 @@ In this project, I generated Seinfeld TV scripts using RNNs based on part of the
 
 ## Installation <a name="installation"></a>
 
-Required libraries and packages can be find in <a href="/requirement.txt">requirement</a>.
+1. Python versions 3.6
+2. Library and packages: pytorch, os, glob, numpy, pandas, Counter, pickle
 
 ## File Descriptions <a name="files"></a>
 
