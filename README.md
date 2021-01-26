@@ -19,16 +19,18 @@ Required libraries and packages can be find in the [requirement file]('requireme
 ## File Descriptions <a name="files"></a>
 
 ### Folders: 
-**Bike-Sharing-Dataset:** contains the data files
-
-**assets:** contains the images used in the notebooks
+**Data:** contains the original data file: [Seinfeld_Scripts.txt]('/Data/Seinfeld_Scripts.txt')
 
 ### Files:
-**dPredicting_bike_sharing_data.ipynb:** the main notebook contains all the codes
+**dlnd_tv_script_generation.ipynb:** the main notebook for the TV script generation
 
-**Predicting_bike_sharing_data.html:** html format of dog_app.ipynb
+**dlnd_tv_script_generation.html:** html format of dlnd_tv_script_generation.ipynb
 
-**my_answers.py:** neural network class
+**helper.py:** contains functions used the main notebook
+
+**preprocess.p:** precleaned dataset (Punctuation tokenized, Words to ints using Bag of Words)
+
+**problem_unittests.py:** contains unit test functions used the main notebook
 
 ## Results<a name="results"></a>
 
