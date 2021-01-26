@@ -19,7 +19,7 @@ Required libraries and packages can be find in the [requirement file]('requireme
 ## File Descriptions <a name="files"></a>
 
 ### Folders: 
-**Data:** contains the original data file: [Seinfeld_Scripts.txt](Data/Seinfeld_Scripts.txt)
+**Data:** contains the original data file: [Seinfeld_Scripts.txt]('/data/Seinfeld_Scripts.txt')
 <a href="/data/Seinfeld_Scripts.txt">Seinfeld_Scripts.txt</a>
 
 ### Files:
