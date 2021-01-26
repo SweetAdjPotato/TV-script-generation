@@ -32,12 +32,15 @@ Required libraries and packages can be find in the [requirement file]('requireme
 
 **problem_unittests.py:** contains unit test functions used the main notebook
 
+**trained_rnn.py:** the saved trained rnn model for script generation
+
+**generated_script_1.txt:** generated sample script 1
+
+**generated_script_2.txt:** generated sample script 2
+
 ## Results<a name="results"></a>
 
-Using the 2-layer neural network with 24 node hidden layer, 5000 epochs and 0.2 learning rate, the final training MSE loss is 0.056 and the final validation MSE loss is 0.160.
-The predicted results are gievn below:
-
-<img src="assets/result.png" />
+Using the LSTM RNN model with 2 hidden layer, 300 embeddings and 0.001 learning rate, the final training loss is 3.35 after traing 10 epochs. Two of the sample scripts generated using the model can be found [sample #1]('/generated_script_1.txt') and [sample #2]('/generated_script_2.txt')
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
